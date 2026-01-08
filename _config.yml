@@ -20,11 +20,8 @@ author:
       url: "mailto:francesco.carli@deakin.edu.au"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/"  # replace with your exact profile link
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/francescocarli"
-
+      url: "https://scholar.google.com/citations?user=2ohqbboAAAAJ&hl=en"  
+    
 # Top menu
 defaults:
   - scope:
