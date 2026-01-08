@@ -1,0 +1,35 @@
+title: Francesco Carli
+description: Associate Professor of Economics 
+url: "https://francescocarli.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-include-cache
+
+# Author panel (left side)
+author:
+  name: "Francesco Carli"
+  avatar: "/assets/images/profile.jpg"   # add later (optional)
+  bio: "Associate Professor of Economics at Deakin University."
+  location: "Melbourne, Australia"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:francesco.carli@deakin.edu.au"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/"  # replace with your exact profile link
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/francescocarli"
+
+# Top menu
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
