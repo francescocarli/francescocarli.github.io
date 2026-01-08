@@ -15,12 +15,16 @@ author:
   bio: "Associate Professor of Economics at Deakin University."
   location: "Melbourne, Australia"
   links:
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "https://www.dropbox.com/s/vuzmytsxlcur56y/CV_Carli.pdf?dl=0"  
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:francesco.carli@deakin.edu.au"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=2ohqbboAAAAJ&hl=en"  
+    
     
 # Top menu
 defaults:
