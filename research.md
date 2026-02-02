@@ -1,6 +1,8 @@
 ---
 title: "Research"
 permalink: /research/
+layout: single
+classes: wide
 ---
 
 ## Publications and Forthcoming Papers
