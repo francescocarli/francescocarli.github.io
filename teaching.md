@@ -27,7 +27,7 @@ classes: wide
 - **[Information and Uncertainty](https://www.dropbox.com/s/efoqznz99xqecag/Syllabus.pdf?dl=0)**  
   Spring 2014, Fall 2014
 
-- **[Advanced Macroeconomics][Advanced Macroeconomics](https://www.dropbox.com/s/2pkbqs9yeduqd7m/syllabus.pdf?dl=0)**  
+- **[Advanced Macroeconomics](https://www.dropbox.com/s/2pkbqs9yeduqd7m/syllabus.pdf?dl=0)**  
   Spring 2015
 
 - **[Banking and Regulation](https://www.dropbox.com/s/dkxe3j9wjtugc9v/syllabus.pdf?dl=0)**  
