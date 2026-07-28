@@ -40,7 +40,7 @@ classes: wide
 
 ## Working Papers
 
-**[Investment Diligence, Moral Hazard, and Asymmetric Group Loans: Experimental Evidence](https://www.dropbox.com/scl/fi/qojlqge378wyzbxk7p2nl/Bolivia_MFI.pdf?rlkey=mzkwjyh1uxt6ixth02rqjoguy&st=iwe5zxwe&dl=0)**
+**[Investment Diligence, Moral Hazard, and Asymmetric Group Loans: Experimental Evidence](https://www.dropbox.com/scl/fi/qojlqge378wyzbxk7p2nl/Bolivia_MFI.pdf?rlkey=mzkwjyh1uxt6ixth02rqjoguy&st=iwe5zxwe&dl=0)**  
 with F. Cecchi, M. Fritz, B. Uras, and R. Lensink
 
 **[Reviving Joint-Liability Contracts: Asymmetric Joint Liability Loans with Moral Hazard](https://www.dropbox.com/scl/fi/bmztgvtpfm7ikr6scarr6/Bolivia-MFI-Paper_Feb26.pdf?rlkey=oswiituvljg0uf3jh9nujx2fr&st=rizsu3fl&dl=0)**  
