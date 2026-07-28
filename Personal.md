@@ -3,4 +3,7 @@ title: "Personal"
 permalink: /Personal/
 ---
 
-Short bio + affiliations + links.
+
+## Workshops
+
+**[Macrodevelopment Workshop](https://sites.google.com/view/macrodev-annual)**
