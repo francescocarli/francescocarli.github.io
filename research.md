@@ -40,10 +40,12 @@ classes: wide
 
 ## Working Papers
 
+**[Investment Diligence, Moral Hazard, and Asymmetric Group Loans: Experimental Evidence](https://www.dropbox.com/scl/fi/qojlqge378wyzbxk7p2nl/Bolivia_MFI.pdf?rlkey=mzkwjyh1uxt6ixth02rqjoguy&st=iwe5zxwe&dl=0)**
+with F. Cecchi, M. Fritz, B. Uras, and R. Lensink
+
 **[Reviving Joint-Liability Contracts: Asymmetric Joint Liability Loans with Moral Hazard](https://www.dropbox.com/scl/fi/bmztgvtpfm7ikr6scarr6/Bolivia-MFI-Paper_Feb26.pdf?rlkey=oswiituvljg0uf3jh9nujx2fr&st=rizsu3fl&dl=0)**  
 with F. Cecchi, M. Fritz, B. Uras, and R. Lensink
 
-We study the effects of asymmetric joint liability on peer monitoring, moral hazard, and default in microfinance. We develop a structural model of group lending under moral hazard and test its implications in a lab-in-the-field experiment with microfinance clients in urban Bolivia. The model shows that symmetric joint liability contracts can weaken incentives for peer monitoring and lead to coordinated defaults. By designating one group member as a lead borrower with differential interest rates, asymmetric joint liability restores monitoring incentives and mitigates moral hazard. Consistent with the model, experimental evidence shows that asymmetric joint liability contracts increase peer monitoring and loan repayment, particularly among borrowers who find joint liability acceptable.
 
 ## Selected Work in Progress
 
@@ -52,3 +54,5 @@ We study the effects of asymmetric joint liability on peer monitoring, moral haz
 
 **Optimal Monetary Policy under Incomplete Financial Markets when Money Is Essential**  
 *(with Gaetano Antinolfi and Enrique Kawamura)*
+
+
