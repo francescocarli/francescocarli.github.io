@@ -9,7 +9,7 @@ classes: wide
 
 - **[Asymmetric Group Loan Contracts: Experimental Evidence](https://resolve.cambridge.org/core/journals/journal-of-the-economic-science-association/article/asymmetric-group-loan-contracts-experimental-evidence/2141C3AE91CC27A95A743D5A26A9E910/core-reader)**  
   with B. Uras, S. Suetens, and P. Visser.  
-  *Journal of the Economic Science Association* 11(2), (2025), 270-278. 
+  *Journal of the Economic Science Association*  2025;11(2):270-278.
 
 - **[The Role of Risky Debt and Safe Assets in Unregulated Financial Intermediaries with Costly State Verification](https://link.springer.com/article/10.1007/s00199-024-01625-1)**  
   with P. Gomis-Porqueras. *Economic Theory* 80, 203–239 (2025). 
