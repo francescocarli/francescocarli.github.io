@@ -1,0 +1,53 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/*
+   Larger author portrait
+   Keeps the existing Minimal Mistakes design while matching the approved
+   preview's wider profile column and more prominent original photograph.
+*/
+@include breakpoint($large) {
+  .sidebar {
+    width: 324px;
+    opacity: 1;
+  }
+
+  .page {
+    width: calc(100% - 340px);
+    padding-inline-end: 0;
+  }
+
+  .author__avatar img {
+    width: 300px;
+    height: 300px;
+    max-width: none;
+    object-fit: cover;
+    object-position: 52% 44%;
+  }
+
+  .author__content,
+  .author__urls-wrapper {
+    width: 300px;
+  }
+}
+
+@media (max-width: 63.99em) {
+  .author__avatar {
+    width: 96px;
+    height: 96px;
+  }
+
+  .author__avatar img {
+    width: 88px;
+    height: 88px;
+    max-width: 88px;
+    object-fit: cover;
+    object-position: 52% 44%;
+  }
+}
